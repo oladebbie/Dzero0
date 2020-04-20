@@ -1,0 +1,3 @@
+lecture0 $ ls
+lecture0 $ touch hello.html
+lecture0 $ atom .
